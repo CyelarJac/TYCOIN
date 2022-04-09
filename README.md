@@ -1,0 +1,2 @@
+# TYCOIN
+Virtual Asset
